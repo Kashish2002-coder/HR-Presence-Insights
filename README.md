@@ -36,8 +36,9 @@ HR departments often face challenges in tracking workforce availability and atte
 - Support strategic workforce planning and employee wellness initiatives.
 
 🔑 Key Visuals
-  Key Metrics (Top Left):  
-  Displays overall attendance metrics including:  
+  
+   Key Metrics (Top Left):  
+   Displays overall attendance metrics including:  
 - Presence %: 91.83%  
 - Work From Home (WFH) %: 10.00%  
 - Sick Leave (SL) %: 1.10%
