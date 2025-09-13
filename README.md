@@ -61,7 +61,7 @@ HR departments often face challenges in tracking workforce availability and atte
 - Policy Development: Supports data-driven decisions for remote work and leave policies.
 - Productivity Analysis: Enables organizations to understand how attendance impacts overall productivity and plan interventions.
 
-📸 Screenshot / Demo
+📸 Screenshot
 
 ![HR Presence Insights Dashboard]([link-to-your-image.png](https://github.com/Kashish2002-coder/HR-Presence-Insights/blob/main/Snapshot%20of%20the%20HR%20dashboard.png))
 
