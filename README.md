@@ -63,6 +63,6 @@ HR departments often face challenges in tracking workforce availability and atte
 
 📸 Screenshot / Demo
 
-![HR Presence Insights Dashboard](link-to-your-image.png)
+![HR Presence Insights Dashboard]([link-to-your-image.png](https://github.com/Kashish2002-coder/HR-Presence-Insights/blob/main/Snapshot%20of%20the%20HR%20dashboard.png))
 
 This preview shows attendance rates, work-from-home trends, sick leave patterns, and detailed employee records for April–June 2022, providing actionable insights for HR teams.
