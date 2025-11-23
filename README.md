@@ -12,7 +12,7 @@ The dashboard was built using the following tools and technologies:
 -  Power BI Desktop – Main data visualization platform used for designing reports and dashboards.
 -  Power Query – Used for data cleaning, transformation, and preparation.
 -  DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and trend analysis.
--  SQL – Used for querying employee attendance and leave data from structured databases.
+-  Excel – Used for querying employee attendance and leave data from structured databases.
 -  File Format – .pbix for report development and .png for visual previews.
 
 📂 Data Source
